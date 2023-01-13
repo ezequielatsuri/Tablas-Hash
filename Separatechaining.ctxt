@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Separatechaining
+comment1.params=al\ HT
+comment1.target=void\ rellenar(java.lang.String[],\ SinglyLinkedList[])
+comment2.params=HT
+comment2.target=void\ imprimir(SinglyLinkedList[])
+comment3.params=HT\ nombre
+comment3.target=void\ buscar(SinglyLinkedList[],\ java.lang.String)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment4.text=args[0]\ \=\ nombresOrden.txt
+numComments=5

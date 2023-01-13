@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Linearprobing
+comment1.params=HT\ nombre
+comment1.target=void\ buscar(java.lang.String[],\ java.lang.String)
+comment2.params=al\ HT
+comment2.target=void\ rellenar(java.lang.String[],\ java.lang.String[])
+comment3.params=HT
+comment3.target=void\ imprimir(java.lang.String[])
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment4.text=args[0]\ \=\ nombresOrden.txt
+numComments=5
